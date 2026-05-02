@@ -6,6 +6,7 @@ import wedding2 from "../assets/img1.jpg";
 import couple from "../assets/img3.jpg";
 import portrait from "../assets/img4.jpg";
 import candid from "../assets/img5.jpg";
+import wedding3 from "../assets/img6.jpg";
 
 export default function Gallery() {
   const items = [
@@ -13,6 +14,11 @@ export default function Gallery() {
       title: "Maternity Photography",
       category: "Celebrations",
       img: wedding2
+    },
+    {
+      title : "Baby Photography",
+      category : "Newborns",
+      img : wedding3
     },
     {
       title: "Wedding Photography",

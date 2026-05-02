@@ -26,7 +26,7 @@ const Instagram = () => {
         <span className="insta-mini-tag">
           FOLLOW OUR STORY
         </span>
-        <h3>@__jeeva_photography__
+        <h3>@rkphotostudio_erode/
 </h3>
       </div>
 
@@ -63,7 +63,7 @@ const Instagram = () => {
       {/* Footer link */}
       <div className="insta-footer-link">
         <a
-          href="https://www.instagram.com/__jeeva_photography__/"
+          href="https://www.instagram.com/rkphotostudio_erode/"
           target="_blank"
           rel="noreferrer"
         >

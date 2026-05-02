@@ -11,17 +11,17 @@ export default function Footer() {
         
         {/* Top Section: Brand Statement */}
         <div className="footer-top">
-          <h1 className="footer-logo">Jeeva Photography</h1>
+          <h1 className="footer-logo">RK Photo Studio</h1>
           <p className="footer-slogan">Capturing timeless stories with elegance.</p>
         </div>
 
         {/* Middle Section: Links & Socials */}
         <div className="footer-middle">
           <div className="footer-social-links">
-            <a href="https://www.instagram.com/__jeeva_photography__/" target="_blank" rel="noreferrer">
+            <a href="https://www.instagram.com/rkphotostudio_erode/" target="_blank" rel="noreferrer">
               <FaInstagram /> Instagram
             </a>
-            <a href="https://wa.me/91709226986" target="_blank" rel="noreferrer">
+            <a href="https://wa.me/918489276768" target="_blank" rel="noreferrer">
               <FaWhatsapp /> WhatsApp
             </a>
             <a href="mailto:hello@jeevaphotography.com">

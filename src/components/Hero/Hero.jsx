@@ -33,7 +33,7 @@ export default function Hero() {
   };
 
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/917092263880", "_blank");
+    window.open("https://wa.me/918489276768", "_blank");
   };
 
   return (
